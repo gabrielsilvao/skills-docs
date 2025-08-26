@@ -1,4 +1,4 @@
-# **CodeAertifact - Hands On**
+# **CodeArtifact - Hands On**
 
 ## Create a CodeArtifact repository
 
